@@ -26,8 +26,8 @@ minimalistic Webpack  ES6  project displaying top hacker news.
 - [Sass](http://sass-lang.com/guide)
 
 ## Start Dev Server
-
-1. `git clone https://github.com/masahmad/adtest.git`
+git@github.com:masahmad/haknews.git
+1. `git clone https://github.com/masahmad/hakews.git`
 2. Run `npm install`
 3. Start the dev server using `npm start`
 3. Open [http://localhost:9000](http://localhost:9000)
