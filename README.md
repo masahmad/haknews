@@ -1,4 +1,4 @@
-# Webpack ES6 boilerplate
+# Fetch Hacker News stories from API
 
 [![tests][tests]][tests-url]
 [![coverage][cover]][cover-url]
